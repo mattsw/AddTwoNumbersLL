@@ -1,0 +1,15 @@
+E:\Projects\AddTwoNumbersLL\AddTwoNumbers\AddTwoNumbers\bin\Debug\net6.0\AddTwoNumbers.exe
+E:\Projects\AddTwoNumbersLL\AddTwoNumbers\AddTwoNumbers\bin\Debug\net6.0\AddTwoNumbers.deps.json
+E:\Projects\AddTwoNumbersLL\AddTwoNumbers\AddTwoNumbers\bin\Debug\net6.0\AddTwoNumbers.runtimeconfig.json
+E:\Projects\AddTwoNumbersLL\AddTwoNumbers\AddTwoNumbers\bin\Debug\net6.0\AddTwoNumbers.dll
+E:\Projects\AddTwoNumbersLL\AddTwoNumbers\AddTwoNumbers\bin\Debug\net6.0\AddTwoNumbers.pdb
+E:\Projects\AddTwoNumbersLL\AddTwoNumbers\AddTwoNumbers\obj\Debug\net6.0\AddTwoNumbers.csproj.AssemblyReference.cache
+E:\Projects\AddTwoNumbersLL\AddTwoNumbers\AddTwoNumbers\obj\Debug\net6.0\AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\AddTwoNumbersLL\AddTwoNumbers\AddTwoNumbers\obj\Debug\net6.0\AddTwoNumbers.AssemblyInfoInputs.cache
+E:\Projects\AddTwoNumbersLL\AddTwoNumbers\AddTwoNumbers\obj\Debug\net6.0\AddTwoNumbers.AssemblyInfo.cs
+E:\Projects\AddTwoNumbersLL\AddTwoNumbers\AddTwoNumbers\obj\Debug\net6.0\AddTwoNumbers.csproj.CoreCompileInputs.cache
+E:\Projects\AddTwoNumbersLL\AddTwoNumbers\AddTwoNumbers\obj\Debug\net6.0\AddTwoNumbers.dll
+E:\Projects\AddTwoNumbersLL\AddTwoNumbers\AddTwoNumbers\obj\Debug\net6.0\refint\AddTwoNumbers.dll
+E:\Projects\AddTwoNumbersLL\AddTwoNumbers\AddTwoNumbers\obj\Debug\net6.0\AddTwoNumbers.pdb
+E:\Projects\AddTwoNumbersLL\AddTwoNumbers\AddTwoNumbers\obj\Debug\net6.0\AddTwoNumbers.genruntimeconfig.cache
+E:\Projects\AddTwoNumbersLL\AddTwoNumbers\AddTwoNumbers\obj\Debug\net6.0\ref\AddTwoNumbers.dll
